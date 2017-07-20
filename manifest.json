@@ -1,10 +1,7 @@
 {
   "description": "Convert opacity percentages to hex values",
   "name": "Percentage to Hex",
-  "version": "1.0",
-  "permissions": [
-    "tabs", "http://*/*", "https://*/*"
-  ],
+  "version": "1.1",
   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
   "browser_action": {
       "default_title": "Set this page's color.",
